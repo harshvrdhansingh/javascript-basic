@@ -2,7 +2,8 @@
 // Return the type of the value
 
 
-function myFunction(a, b) {
+Your solution
+function myFunction(a) {
    
-    return a===b;
- }
+   return typeof a;
+}
